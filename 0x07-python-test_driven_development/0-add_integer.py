@@ -28,11 +28,8 @@ def add_integer(a, b=98):
     a = int(a)
     b = int(b)
     return (a + b)#!/usr/bin/python3
-"""
 
-This module is composed by a function that adds two numbers
-
-"""
+#This module is composed by a function that adds two numbers
 
 
 def add_integer(a, b=98):
